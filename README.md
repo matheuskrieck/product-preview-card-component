@@ -4,15 +4,15 @@
 
 <div align="center">
     <h3>
-    <a href="https://matheuskrieck.github.io/product-preview-card-component/" color="white">
+    <a href="https://matheuskrieck.github.io/product-preview-card-component/" target="_blank" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://www.frontendmentor.io/solutions/product-preview-card-content-Du1DMwEOiX" target="_blank" color="white">
       Solution
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa" target="_blank" color="white">
       Challenge
     </a>
     </h3>
