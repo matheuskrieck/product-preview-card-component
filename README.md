@@ -4,11 +4,17 @@
 
 <div align="center">
     <h3>
-        [Live](https://matheuskrieck.github.io/product-preview-card-component/)
-        ** | **
-        [Solution]()
-        ** | **
-        [Challenge]()
+    <a href="https://matheuskrieck.github.io/product-preview-card-component/" color="white">
+      Live
+    </a>
+    <span> | </span>
+    <a href="">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="">
+      Challenge
+    </a>
     </h3>
 </div>
 
